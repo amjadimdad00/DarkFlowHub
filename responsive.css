@@ -1,0 +1,33 @@
+@media screen and (max-width: 1251px) {
+  .logo {
+    width: 60px;
+  }
+
+  nav {
+    margin: 0 10px;
+    font-size: 12px;
+  }
+
+  nav ul li {
+    margin: 0 2px;
+  }
+
+  #icon {
+    margin: 0px;
+  }
+
+  .info h1 {
+    font-size: 30px;
+  }
+
+  .info p {
+    font-size: 15px;
+  }
+
+  .img-box img {
+    top: 200px;
+    width: 250px;
+    height: 350px;
+    display: none;
+  }
+}
